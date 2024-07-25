@@ -22,7 +22,11 @@ This project itegrates Twilio Flex with a custom Frontend application using type
 Flex prodvide a dashboard where agent/ worker accept task initated by customer. Task whould of different types and task here symbolize the communication which is initiated by customer. Task would be a call, sms, chat and any interaction through social media.
 
 ### Flex Dashboard 
-  It looks like below image,But If you want to customized your dashboard according to your requirement then       you need to follow these step to download in your local then customize and redeploy again. 
+  It looks like below image.
+
+  ![Screenshot from 2024-07-25 13-54-35](https://github.com/user-attachments/assets/2a58a9ee-efa4-4c7b-9c7a-1adfe9f5710e)
+
+  If you want to customized your dashboard according to your requirement then       you need to follow these step to download in your local then customize and redeploy again. 
  
   1. The Flex Plugins CLI is available via the Twilio CLI. You can install it using the twilio plugins     
      command. NPM version must be 6.0.0 or later and Node versions must be 14, 16 or 18.
